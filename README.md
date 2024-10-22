@@ -1,7 +1,7 @@
 The purpose for this Exploratory Data Analysis (EDA) on NYPD Complaints Incident Level Data is due to the increase of crime throughout the city. I wanted to practice and improve my data analysis and visualization skills, while also creating a meaningful project for the public. After cleaning and manipulating the data, I formed and answered various questions that people may have regarding the uptick of crime in NYC. I hope this project inspires others to engage in analytical projects based around public necessity for information.
 
 For an in-depth detail on the dataset columns, please check the following link:
-**https://www.nyc.gov/assets/nypd/downloads/pdf/analysis_and_planning/incident_level_data_footnotes.pdf**
+**https://data.cityofnewyork.us/api/views/5uac-w243/files/d21db73f-ca23-42d4-9767-2d32f2d46ecd?download=true&filename=NYPD_Complaint_Incident_Level_Data_Footnotes.pdf**
 
 The NYPD Complaints Incident Level Data comes from NYC Open Data. Please check the following link:
 **https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243/about_data**
