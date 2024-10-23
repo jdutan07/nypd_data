@@ -6,7 +6,7 @@ For an in-depth detail on the dataset columns, please check the following link:
 The NYPD Complaints Incident Level Data comes from NYC OpenData. Please check the following link:
 **https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243/about_data**
 
-**IMPORTANT INFOMRATION REGARDING THE DATASET**
+**IMPORTANT INFOMRATION REGARDING THE DATASET:**
 The NYPD Complaints Incident Level Data was created on October 28, 2016 and was last updated on July 22, 2024 (based on the time I accessed it). I accessed the dataset on September 30, 2024 and extracted the data with a timespan of January 1, 2021 to September 30, 2024. Despite the timespan for data extraction, the earliest data entry appears to be from 01/03/2021 to its last data entry on 06/30/2024. This was concluded after inspecting the data in its original and cleaned formats. Please see the additional information below for clarity.
 
 There are two date_time columns:
