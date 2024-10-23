@@ -14,6 +14,6 @@ There are two date_time columns:
 - Earliest Date of Occurrence is 01/03/2021
 - Latest Date of Occurrence is 06/30/2024
 
-2. Date Event was Reported to Police.
+2. Date Event was Reported to Police
 - Earliest Date Event was Reported to Police is 01/01/2024
 - Latest Date Event was Reported to Police is 06/30/2024
